@@ -34,7 +34,7 @@ Update the necessary environment variables such as cluster API URL, storage addr
 Execute the main script to run the Solana NFT management operations:
 
 ```bash
-node index.js
+node index.ts
 ```
 
 ## Usage
